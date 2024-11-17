@@ -5,4 +5,4 @@
 - Model for training the upsampling i.e. downscaling: GroundHog for training upsampling model
 - Model for downstreaming task such as, Recharge Calculation and Trend analysis: GroundHog: Downstream task
 
-** All data are included in the notebooks **
+**All data are included in the notebooks**
