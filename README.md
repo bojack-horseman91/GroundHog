@@ -9,11 +9,6 @@
 **All data are included in the notebooks**  
 
 ### Watch the Video:  
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/vkYxBwPjGMM" 
-    title="GroundHog Overview Video" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
+[![GroundHog Overview Video](https://img.youtube.com/vi/vkYxBwPjGMM/0.jpg)](https://www.youtube.com/watch?v=vkYxBwPjGMM)
+
 
