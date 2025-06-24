@@ -109,7 +109,4 @@ We also provide a simple, interactive web tool to visualize outputs:
 
 ---
 
-## 📥 Citation  
-
-If you use GroundHog in your research or project, please cite:
 
